@@ -1,0 +1,8 @@
+{
+  "name": "private-counter-fhevm",
+  "version": "1.0.0",
+  "description": "A simple private counter demo using Zama's FHEVM",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
